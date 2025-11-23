@@ -1,11 +1,14 @@
 # Textual-Noise-effect-on-sentiment-Detection-Project
 Analysis Impact of textual Noise on sentiment Detection Using LLMs
 
-Original Text: Example text to be modified. 
+<p><strong>Original Text: Example text to be modified. </strong></p>
+<p></p>
 Noisy Text with Random Characters: Vxample tTxt to be modified. 
+<p></p>
 Noisy Text with Special Characters: EвĤxample text to be ŧmΐodiĆfied. 
+<p></p>
 Noisy Text with Homoglyphs: ᴇхạмpӏe text тo be mɵdifіeԁ.
-
+<p></p>
 
 <div align="left"> 
   <p><strong> Bertweet Accuracy with different noise rate and types of noise : </strong></p> 
